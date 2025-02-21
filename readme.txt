@@ -1,20 +1,19 @@
 -----------------------
 # README
 -----------------------
-CarVilla is a one page bootstrap 3 based Car Dealer Automotive website template.
-
+ArVilla is an art website created developed by HappiBo.
 
 Template Info:
 -----------------------
-Name: 		CarVilla - Free Bootstrap One Page Car Dealer Automotive website template
+Name: 		ArtVilla 
 Version: 	1.0
-Author: 	ThemeSINE
-Website: 	https://www.themesine.com/
+Author: 	HappiBo
+Website: 	https://happi-bo-porfolio.vercel.app
 
 
 Changelog:
 -----------------------
-Version 1.0 13-06-2018
+Version 1.0 21-02-2025
 - initial release 
 
 
@@ -31,4 +30,3 @@ Credits:
 
 License:
 -----------------------
-This template is under Free License - https://www.themesine.com/license/
