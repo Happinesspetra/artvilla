@@ -16,7 +16,7 @@ font-family: 'Rufina', serif;
 3.  Welcome-hero
 4.  Model-search
 5.  Service
-6.  New-arts
+6.  newest-arts
 7.  Featured-arts
 8.  Client-say
 9.  Brand
@@ -371,30 +371,30 @@ nav.navbar.bootsnav .navbar-toggle i{color: #fa9e4e;}
 
 
 /*-------------------------------------
-        6. New-arts
+        6. newest-arts
 --------------------------------------*/
-.new-arts{
+.newest-arts{
     background: #f8f9fb;
     padding:112px 0 120px;
 }
-.new-arts-content{padding-top:96px;}
-/*.new-arts-txt*/
-.new-arts-txt {margin-left: 29px;margin-bottom: 30px;}
-.new-arts-txt h2 a {
+.newest-arts-content{padding-top:96px;}
+/*.newest-arts-txt*/
+.newest-arts-txt {margin-left: 29px;margin-bottom: 30px;}
+.newest-arts-txt h2 a {
     font-size:  30px;
     font-weight:  500;
     margin-bottom: 26px;
 }
-.new-arts-txt h2 a span {text-transform:  uppercase;}
-.new-arts-para2 {margin-top: 30px;}
-.welcome-btn.new-arts-btn {
+.newest-arts-txt h2 a span {text-transform:  uppercase;}
+.newest-arts-para2 {margin-top: 30px;}
+.welcome-btn.newest-arts-btn {
     width: 176px;
     margin-top: 32px;
 }
-/*.new-arts-txt*/
+/*.newest-arts-txt*/
 
 /*.owl-dots */
-.new-arts .owl-theme .owl-dots .owl-dot span {
+.newest-arts .owl-theme .owl-dots .owl-dot span {
     width: 8px;
     height: 8px;
     margin: 0px 4px;
@@ -402,8 +402,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #fa9e4e;}
     border: 1px solid #6a7781;
     border-radius: 50%;
 }
-.new-arts .owl-theme .owl-dots .owl-dot.active span,.new-arts .owl-theme .owl-dots .owl-dot:hover span {background: #6a7781;}
-.new-arts .owl-theme .owl-nav.disabled+.owl-dots {margin-top: 62px;}
+.newest-arts .owl-theme .owl-dots .owl-dot.active span,.newest-arts .owl-theme .owl-dots .owl-dot:hover span {background: #6a7781;}
+.newest-arts .owl-theme .owl-nav.disabled+.owl-dots {margin-top: 62px;}
 /*.owl-dots */
 
 /*-------------------------------------
