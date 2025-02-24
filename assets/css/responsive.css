@@ -9,7 +9,7 @@
 @media screen and (max-width:1199px){
 	.welcome-hero-txt h2{font-size: 40px;}
 	.welcome-btn.model-search-btn {margin-left: 28px;}
-	.featured-cars-img {padding: 0 10px;}
+	.featured-arts-img {padding: 0 10px;}
 }/*max-width:1199px*/
 
 @media screen and (max-width:1024px){
@@ -35,8 +35,8 @@
 	.single-model-search:last-child {margin-bottom: 30px;}
 	.welcome-btn.model-search-btn {margin: 0;}
 
-	.single-new-cars-item {max-width: 450px; margin: 0 auto;}
-	.new-cars-txt {margin: 30px 0;}
+	.single-newest-arts-item {max-width: 450px; margin: 0 auto;}
+	.newest-arts-txt {margin: 30px 0;}
 }/*max-width:991px*/
 
 @media screen and (max-width:768px){
@@ -45,7 +45,7 @@
 
 @media screen and (max-width:767px){
 	.single-service-item {max-width: 350px;margin: 30px auto;}
-	.single-featured-cars {max-width: 350px;margin: 0 auto;}
+	.single-featured-arts {max-width: 350px;margin: 0 auto;}
 	.footer-social {text-align: left;}
 	.footer-social a i {margin-right: 16px;margin-left: 0;}
 	.hm-foot-email {max-width: 300px;}
